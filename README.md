@@ -10,8 +10,8 @@ Steps to follow:
 
 Sample Input: 
 
-<img width="960" alt="sample_input" src="">
+<img width="960" alt="sample_input" src="https://drive.google.com/file/d/1xpwZ3G4WVNDsH5qjB9HU1_fOLI_NkouY/view?usp=sharing">
 
 Sample Output:
 
-<img width="957" alt="sample_output" src="">
+<img width="957" alt="sample_output" src="https://drive.google.com/file/d/1-HQjciCHJWaNp-uRSB8bAlTAua3O3DBr/view?usp=sharing">
