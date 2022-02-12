@@ -18,7 +18,7 @@ df = df.drop(["_id"], axis=1)
 
 @app.post("/queryData")
 async def queryData(vDetails: vehicalDetails):
-    filteredData = df.loc[(df['fuel'] == vDetails.fuel) & (df['seatingCapacity'] == vDetails.seatingCapacity)]git
+    filteredData = df.loc[(df['fuel'] == vDetails.fuel) & (df['seatingCapacity'] == vDetails.seatingCapacity)]
     filteredData = filteredData.values.tolist()
 
     if any(filteredData):
@@ -41,4 +41,3 @@ async def queryData(vDetails: vehicalDetails):
         }
     else:
         return []
-
