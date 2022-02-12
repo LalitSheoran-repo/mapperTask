@@ -1,6 +1,4 @@
 # mapperTask
-# mapper_task
-
 
 Steps to follow:
 1. Install requirements from requirements.txt file.
@@ -10,8 +8,8 @@ Steps to follow:
 
 Sample Input: 
 
-<img width="960" alt="sample_input" src="https://drive.google.com/file/d/1xpwZ3G4WVNDsH5qjB9HU1_fOLI_NkouY/view?usp=sharing">
+<img width="960" alt="sample_input" src="https://drive.google.com/file/d/1xpwZ3G4WVNDsH5qjB9HU1_fOLI_NkouY">
 
 Sample Output:
 
-<img width="957" alt="sample_output" src="https://drive.google.com/file/d/1-HQjciCHJWaNp-uRSB8bAlTAua3O3DBr/view?usp=sharing">
+<img width="957" alt="sample_output" src="https://drive.google.com/file/d/1-HQjciCHJWaNp-uRSB8bAlTAua3O3DBr/">
