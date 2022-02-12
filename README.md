@@ -8,8 +8,8 @@ Steps to follow:
 
 Sample Input: 
 
-<img width="960" alt="sample_input" src="https://drive.google.com/file/d/1xpwZ3G4WVNDsH5qjB9HU1_fOLI_NkouY">
+<img width="960" alt="input" src="https://user-images.githubusercontent.com/76957686/153722428-82557248-5f8a-4764-8880-7e8c71a7b14f.png">
 
 Sample Output:
 
-<img width="957" alt="sample_output" src="https://drive.google.com/file/d/1-HQjciCHJWaNp-uRSB8bAlTAua3O3DBr/">
+<img width="960" alt="output" src="https://user-images.githubusercontent.com/76957686/153722429-9b4bf2f3-a8cc-4410-8484-22f4f9aba23b.png">
